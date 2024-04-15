@@ -1,5 +1,7 @@
 # The asynchronous drop code generation implementation
 
+PR: https://github.com/rust-lang/rust/pull/123948
+
 The implementation is WIP and works with only final async drop function (async drop glue preparation in separate branch).
 
 ## Public interface of AsyncDrop
